@@ -1,0 +1,3 @@
+rootProject.name = "ThinWS"
+include ':thinws'
+include ':sample'
